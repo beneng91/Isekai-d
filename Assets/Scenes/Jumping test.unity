@@ -300,11 +300,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3020366304088509113, guid: ed63680e020234540b4a593aa370430c, type: 3}
       propertyPath: m_jumpHeight
-      value: 1
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 3020366304088509113, guid: ed63680e020234540b4a593aa370430c, type: 3}
       propertyPath: m_movementSpeed
-      value: 4
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3020366304088509113, guid: ed63680e020234540b4a593aa370430c, type: 3}
       propertyPath: m_groundMask.m_Bits
